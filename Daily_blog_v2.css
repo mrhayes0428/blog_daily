@@ -82,3 +82,16 @@ button{
   text-align: left;
   
 }
+dt{
+  font-weight: 800;
+  text-decoration: underline;
+}
+#alignment{
+  margin: auto;
+  background-color: #ffffff;
+  text-align: left;
+}
+em{
+  font-weight: 800;
+  font-family: 'Times New Roman', Times, serif
+}
